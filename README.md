@@ -35,7 +35,7 @@ EliTechWiz-V2 Bot Multi Device is a automated whatsapp bot created by <a href="h
 <p align="center">
 <a href="https://youtube.com/@eliahhango"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@eliahhango" /><br>
 <a href="https://whatsapp.com/channel/0029VaeEYF0BvvsZpaTPfL2s"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VaeEYF0BvvsZpaTPfL2s" /><br>
-<a href="https://t.me/xeonbotinc"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
+<a href="https://t.me/techarmyyy"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
 <a href="https://chat.whatsapp.com/CK55DhCbb2q6UihlzPBTkP"><img src="https://img.shields.io/badge/WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://www.instagram.com/elitechwiz?igsh=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white" />
 </p>

@@ -22,7 +22,7 @@
     "imgur": "^1.0.2",
     "jimp": "^0.16.1",
     "lodash": "^4.17.21",
-    "lowdb": "^3.0.0",
+    "lowdb": "^7.0.1",
     "moment-timezone": "^0.5.34",
     "node-cache": "^5.1.2",
     "node-fetch": "^3.3.1",

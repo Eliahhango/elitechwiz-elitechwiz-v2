@@ -19,7 +19,7 @@
     "fs-extra": "^11.1.1",
     "google-tts-api": "^2.0.0",
     "image-to-webp": "^1.0.0",
-    "imgur": "^1.0.2",
+    "imgur": "^2.5.0",
     "jimp": "^0.16.1",
     "lodash": "^4.17.21",
     "lowdb": "^3.0.0",
